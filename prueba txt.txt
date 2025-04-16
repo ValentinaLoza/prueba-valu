@@ -1,0 +1,10 @@
+git clone
+git add
+git commit -m ""
+git push -u ""
+git pull
+
+ls (lista de carpetas donde estoy posicionado)
+cd (movimiento entre carpetas) tab (lista de carpetas)
+history (lista de comandos)
+rm (borra archivos)
